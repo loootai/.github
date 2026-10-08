@@ -32,6 +32,8 @@ REST: `POST https://api.looot.ai/v1/runs` with a bearer token. Docs at [docs.loo
 | Domains in, verified work emails out (CSV) | [looot-lead-gen-agent](https://github.com/loootai/looot-lead-gen-agent) |
 | Weekly Google rank report for a keyword list | [looot-seo-monitor](https://github.com/loootai/looot-seo-monitor) |
 | Open-source Clay-style enrichment tables (Next.js + Supabase) | [looot-tables](https://github.com/loootai/looot-tables) |
+| Add company, email, phone columns to any CSV, quote first | [looot-csv-enrich](https://github.com/loootai/looot-csv-enrich) |
+| n8n workflows on core nodes: email, company research, signup score, rank check | [looot-n8n-workflows](https://github.com/loootai/looot-n8n-workflows) |
 | Recipes: enrichment, research, SEO, scraping | [looot-cookbook](https://github.com/loootai/looot-cookbook) |
 | 12 use cases with prices and copy-paste prompts | [awesome-looot-use-cases](https://github.com/loootai/awesome-looot-use-cases) |
 | Open-source GTM engineering tools, curated | [awesome-gtm](https://github.com/loootai/awesome-gtm) |
