@@ -25,6 +25,9 @@ REST: `POST https://api.looot.ai/v1/runs` with a bearer token. Docs at [docs.loo
 | TypeScript and Python | [looot-js](https://github.com/loootai/looot-js), [looot-python](https://github.com/loootai/looot-python) |
 | Vercel AI SDK, LangChain | [looot-ai-sdk](https://github.com/loootai/looot-ai-sdk), [langchain-looot](https://github.com/loootai/langchain-looot) |
 | n8n, Activepieces, Dify | [n8n-nodes-looot](https://github.com/loootai/n8n-nodes-looot), [looot-activepieces](https://github.com/loootai/looot-activepieces), [looot-dify](https://github.com/loootai/looot-dify) |
+| Zapier, Make | [looot-zapier](https://github.com/loootai/looot-zapier), [looot-make](https://github.com/loootai/looot-make) |
+| Twenty CRM | [twenty-app-looot](https://github.com/loootai/twenty-app-looot) |
+| Clay (HTTP API column recipes) | [looot-clay-templates](https://github.com/loootai/looot-clay-templates) |
 | VS Code, JetBrains, Zed | [looot-vscode](https://github.com/loootai/looot-vscode), [looot-jetbrains](https://github.com/loootai/looot-jetbrains), [looot-zed](https://github.com/loootai/looot-zed) |
 | GitHub Actions | [looot-action](https://github.com/loootai/looot-action) |
 | Chrome side panel | [looot-chrome](https://github.com/loootai/looot-chrome) |
