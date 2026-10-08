@@ -27,6 +27,8 @@ REST: `POST https://api.looot.ai/v1/runs` with a bearer token. Docs at [docs.loo
 | n8n, Activepieces, Dify | [n8n-nodes-looot](https://github.com/loootai/n8n-nodes-looot), [looot-activepieces](https://github.com/loootai/looot-activepieces), [looot-dify](https://github.com/loootai/looot-dify) |
 | VS Code, JetBrains, Zed | [looot-vscode](https://github.com/loootai/looot-vscode), [looot-jetbrains](https://github.com/loootai/looot-jetbrains), [looot-zed](https://github.com/loootai/looot-zed) |
 | GitHub Actions | [looot-action](https://github.com/loootai/looot-action) |
+| Chrome side panel | [looot-chrome](https://github.com/loootai/looot-chrome) |
+| Docker images: CLI, MCP bridge | [looot-docker](https://github.com/loootai/looot-docker) |
 
 | Start from a template | Repo |
 | --- | --- |
@@ -40,6 +42,7 @@ REST: `POST https://api.looot.ai/v1/runs` with a bearer token. Docs at [docs.loo
 | Recipes: enrichment, research, SEO, scraping | [looot-cookbook](https://github.com/loootai/looot-cookbook) |
 | 12 use cases with prices and copy-paste prompts | [awesome-looot-use-cases](https://github.com/loootai/awesome-looot-use-cases) |
 | Open-source GTM engineering tools, curated | [awesome-gtm](https://github.com/loootai/awesome-gtm) |
+| The whole catalog as a 3D map ([open it](https://loootai.github.io/catalog-galaxy/)) | [catalog-galaxy](https://github.com/loootai/catalog-galaxy) |
 | GPT Researcher retriever plugin | [gptr-looot-retriever](https://github.com/loootai/gptr-looot-retriever) |
 
 [looot.ai](https://looot.ai) · [Docs](https://docs.looot.ai) · [Privacy](https://looot.ai/privacy) · [Terms](https://looot.ai/terms) · [Contact](https://looot.ai/contact)
