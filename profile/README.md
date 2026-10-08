@@ -21,6 +21,7 @@ REST: `POST https://api.looot.ai/v1/runs` with a bearer token. Docs at [docs.loo
 | MCP clients | [looot-mcp](https://github.com/loootai/looot-mcp) |
 | Claude Code, Codex, Cursor plugin | [looot-plugin](https://github.com/loootai/looot-plugin) |
 | Agent skills (`npx skills add loootai/looot-skills`) | [looot-skills](https://github.com/loootai/looot-skills) |
+| GTM workflow skills (`npx skills add loootai/gtm-skills`) | [gtm-skills](https://github.com/loootai/gtm-skills) |
 | TypeScript and Python | [looot-js](https://github.com/loootai/looot-js), [looot-python](https://github.com/loootai/looot-python) |
 | Vercel AI SDK, LangChain | [looot-ai-sdk](https://github.com/loootai/looot-ai-sdk), [langchain-looot](https://github.com/loootai/langchain-looot) |
 | n8n, Activepieces, Dify | [n8n-nodes-looot](https://github.com/loootai/n8n-nodes-looot), [looot-activepieces](https://github.com/loootai/looot-activepieces), [looot-dify](https://github.com/loootai/looot-dify) |
@@ -32,6 +33,8 @@ REST: `POST https://api.looot.ai/v1/runs` with a bearer token. Docs at [docs.loo
 | Domains in, verified work emails out (CSV) | [looot-lead-gen-agent](https://github.com/loootai/looot-lead-gen-agent) |
 | Weekly Google rank report for a keyword list | [looot-seo-monitor](https://github.com/loootai/looot-seo-monitor) |
 | Open-source Clay-style enrichment tables (Next.js + Supabase) | [looot-tables](https://github.com/loootai/looot-tables) |
+| Buying signals on target accounts: news, hiring, page changes (Next.js + Supabase) | [looot-watchlist](https://github.com/loootai/looot-watchlist) |
+| Local businesses for agencies: Maps search, website gaps, verified emails (Next.js + Supabase) | [looot-local-leads](https://github.com/loootai/looot-local-leads) |
 | Add company, email, phone columns to any CSV, quote first | [looot-csv-enrich](https://github.com/loootai/looot-csv-enrich) |
 | n8n workflows on core nodes: email, company research, signup score, rank check | [looot-n8n-workflows](https://github.com/loootai/looot-n8n-workflows) |
 | Recipes: enrichment, research, SEO, scraping | [looot-cookbook](https://github.com/loootai/looot-cookbook) |
