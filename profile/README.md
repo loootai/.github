@@ -43,6 +43,7 @@ REST: `POST https://api.looot.ai/v1/runs` with a bearer token. Docs at [docs.loo
 | Local businesses for agencies: Maps search, website gaps, verified emails (Next.js + Supabase) | [looot-local-leads](https://github.com/loootai/looot-local-leads) |
 | Brand and competitor monitoring: mentions, Google results, page diffs, reviews, with a cap per monitor (Next.js + Supabase) | [looot-monitor](https://github.com/loootai/looot-monitor) |
 | CRM with buying signals built in: pipeline board, contact enrichment, an intent score per account, quote before every call (Next.js + Supabase) | [looot-crm](https://github.com/loootai/looot-crm) |
+| SEO workspace: rank tracking, keyword research, SERP snapshots, competitors, backlinks, with a quote before every refresh (Next.js + Supabase) | [looot-seo](https://github.com/loootai/looot-seo) |
 | Add company, email, phone columns to any CSV, quote first | [looot-csv-enrich](https://github.com/loootai/looot-csv-enrich) |
 | n8n workflows on core nodes: email, company research, signup score, rank check | [looot-n8n-workflows](https://github.com/loootai/looot-n8n-workflows) |
 | Recipes: enrichment, research, SEO, scraping | [looot-cookbook](https://github.com/loootai/looot-cookbook) |
