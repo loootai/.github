@@ -41,6 +41,7 @@ REST: `POST https://api.looot.ai/v1/runs` with a bearer token. Docs at [docs.loo
 | Open-source Clay-style enrichment tables (Next.js + Supabase) | [looot-tables](https://github.com/loootai/looot-tables) |
 | Buying signals on target accounts: news, hiring, page changes (Next.js + Supabase) | [looot-watchlist](https://github.com/loootai/looot-watchlist) |
 | Local businesses for agencies: Maps search, website gaps, verified emails (Next.js + Supabase) | [looot-local-leads](https://github.com/loootai/looot-local-leads) |
+| Brand and competitor monitoring: mentions, Google results, page diffs, reviews, with a cap per monitor (Next.js + Supabase) | [looot-monitor](https://github.com/loootai/looot-monitor) |
 | Add company, email, phone columns to any CSV, quote first | [looot-csv-enrich](https://github.com/loootai/looot-csv-enrich) |
 | n8n workflows on core nodes: email, company research, signup score, rank check | [looot-n8n-workflows](https://github.com/loootai/looot-n8n-workflows) |
 | Recipes: enrichment, research, SEO, scraping | [looot-cookbook](https://github.com/loootai/looot-cookbook) |
