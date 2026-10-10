@@ -52,4 +52,21 @@ REST: `POST https://api.looot.ai/v1/runs` with a bearer token. Docs at [docs.loo
 | The whole catalog as a 3D map ([open it](https://loootai.github.io/catalog-galaxy/)) | [catalog-galaxy](https://github.com/loootai/catalog-galaxy) |
 | GPT Researcher retriever plugin | [gptr-looot-retriever](https://github.com/loootai/gptr-looot-retriever) |
 
+### Open-source alternatives built on looot
+
+Paid GTM products rebuilt on one looot key, each with a demo mode and a CLI. The price shows before every run. looot-warm-leads (Gojiberry) is in progress.
+
+| Repo | Replaces | Typical run at list price |
+| --- | --- | --- |
+| [looot-intent](https://github.com/loootai/looot-intent) | 6sense | $0.18 per account |
+| [looot-score](https://github.com/loootai/looot-score) | MadKudu | $0.83 to $1.67 per 100 leads |
+| [looot-reveal](https://github.com/loootai/looot-reveal) | RB2B, Clearbit Reveal | about $0.08 per 100 new IPs |
+| [looot-techstack](https://github.com/loootai/looot-techstack) | BuiltWith, Wappalyzer | $1.89 per 100 domains |
+| [looot-signals](https://github.com/loootai/looot-signals) | TheirStack, Harmonic | up to $0.53 per run of five triggers |
+| [looot-lookalike](https://github.com/loootai/looot-lookalike) | Ocean.io | up to $0.21 for 6 seeds |
+| [looot-ads](https://github.com/loootai/looot-ads) | Foreplay | about $0.11 for 5 competitors |
+| [looot-reviews](https://github.com/loootai/looot-reviews) | ReviewTrackers | up to $0.015 for 5 companies on Google Maps |
+| [looot-battlecards](https://github.com/loootai/looot-battlecards) | Klue, Crayon | $0.076 for 5 competitors |
+| [looot-mentions](https://github.com/loootai/looot-mentions) | Brand24, Mention | $0.0066 per keyword per run |
+
 [looot.ai](https://looot.ai) · [Docs](https://docs.looot.ai) · [Privacy](https://looot.ai/privacy) · [Terms](https://looot.ai/terms) · [Contact](https://looot.ai/contact)
