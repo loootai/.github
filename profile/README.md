@@ -1,5 +1,7 @@
 <img src="banner.png" alt="looot: one key for 2,500+ data endpoints" width="100%">
 
+**[Showcase](https://loootai.github.io/showcase/)**: every repo built on looot in one gallery, with prices.
+
 looot gives an AI agent one key and one prepaid balance for 2,500+ data API endpoints from 90+ providers: work emails, phone numbers, company and people search, Google results, web pages, news, LinkedIn profiles, local businesses. The agent searches the catalog, sees the price before it runs, and pays per call. A failed call costs nothing. Top up from $5, no subscription.
 
 ### Install
