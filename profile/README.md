@@ -56,7 +56,7 @@ REST: `POST https://api.looot.ai/v1/runs` with a bearer token. Docs at [docs.loo
 
 ### Open-source alternatives built on looot
 
-Paid GTM products rebuilt on one looot key, each with a demo mode and a CLI. The price shows before every run. looot-warm-leads (Gojiberry) is in progress.
+Paid GTM products rebuilt on one looot key, each with a demo mode and a CLI. The price shows before every run.
 
 | Repo | Replaces | Typical run at list price |
 | --- | --- | --- |
@@ -70,5 +70,6 @@ Paid GTM products rebuilt on one looot key, each with a demo mode and a CLI. The
 | [looot-reviews](https://github.com/loootai/looot-reviews) | ReviewTrackers | up to $0.015 for 5 companies on Google Maps |
 | [looot-battlecards](https://github.com/loootai/looot-battlecards) | Klue, Crayon | $0.076 for 5 competitors |
 | [looot-mentions](https://github.com/loootai/looot-mentions) | Brand24, Mention | $0.0066 per keyword per run |
+| [looot-warm-leads](https://github.com/loootai/looot-warm-leads) | Gojiberry | up to $0.25 per run (new role only), $0.65 with hiring and funding triggers |
 
 [looot.ai](https://looot.ai) · [Docs](https://docs.looot.ai) · [Privacy](https://looot.ai/privacy) · [Terms](https://looot.ai/terms) · [Contact](https://looot.ai/contact)
